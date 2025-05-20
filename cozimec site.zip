@@ -8,7 +8,7 @@
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background-image: url('https://www.textures4photoshop.com/tex/thumbs/seamless-stainless-steel-metal-texture-free-thumb4.jpg');
+     
       background-size: cover;
       background-attachment: fixed;
       color: #fff;
